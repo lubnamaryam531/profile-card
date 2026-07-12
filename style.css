@@ -22,6 +22,7 @@ h1 {
     height: 200px;
     border: 2px solid green;
     box-shadow: 0 0  20px green;
+    margin-top:4px;
     border-radius: 50%;
     object-fit:cover;
 
